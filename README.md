@@ -1,6 +1,5 @@
 
 
-<
-- 🌱 I’m currently learning coding with the Odin Project
+🌱 I’m currently learning coding with the Odin Project
 
--->
+
